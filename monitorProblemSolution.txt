@@ -1,0 +1,8 @@
+1. if many files are changed concurrently then some file change can't be monitor.
+
+2. ignore list: Program files, WINDOWS, System Volume Information, Local Settings -- this folder are ignored
+
+3. using readDirectorychange() function get the changed files  and insert into the monitor database.
+
+4. using the monitor database select all the records and delete from monitor tabales data  . process all the data and check the path
+   is present on that node or files table if it is on the monitor folder then change the backup flag R for files.

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/datalockit-demo/!svn/ver/10/trunk/shellExtClient
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/StdAfx.h
+END
+CStest.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/CStest.dsw
+END
+app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/datalockit-demo/!svn/ver/5/trunk/shellExtClient/app.cpp
+END
+dump_files.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/datalockit-demo/!svn/ver/5/trunk/shellExtClient/dump_files.csv
+END
+db.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/datalockit-demo/!svn/ver/5/trunk/shellExtClient/db.txt
+END
+CStest.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/datalockit-demo/!svn/ver/10/trunk/shellExtClient/CStest.ncb
+END
+CStest.opt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/datalockit-demo/!svn/ver/10/trunk/shellExtClient/CStest.opt
+END
+CStest.plg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/datalockit-demo/!svn/ver/5/trunk/shellExtClient/CStest.plg
+END
+dump_nodes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/datalockit-demo/!svn/ver/5/trunk/shellExtClient/dump_nodes.csv
+END
+Database.db
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/datalockit-demo/!svn/ver/5/trunk/shellExtClient/Database.db
+END
+CStest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/CStest.dsp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/StdAfx.cpp
+END

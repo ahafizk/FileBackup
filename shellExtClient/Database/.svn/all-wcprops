@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/Database
+END
+Database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/Database/Database.cpp
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/Database/sqlite3.c
+END
+Database.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/Database/Database.h
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/Database/sqlite3.h
+END
+sqlite3ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/datalockit-demo/!svn/ver/4/trunk/shellExtClient/Database/sqlite3ext.h
+END
